@@ -5,6 +5,7 @@ This project is focused on classifying different spesies of butterflies using de
 1️⃣ Intall libraries
 All required libraries and their versions are listed in the ```requirements.txt``` file. To install them, run:
 ```pip install -r requirements.txt```
+
 2️⃣ Download dataset
 Since the dataset is too large to be stored on GitHub, you can download it manually from Kaggle:
 [Page with dataset](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification/data)
