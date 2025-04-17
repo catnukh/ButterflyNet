@@ -28,9 +28,13 @@ Then choose folder where you will download project.
 
 ## Navigation
 ```preprocessing.ipynb``` --- downloaded dataset, provided augmentation, tensored, explored features.
+
 ```collect_data.py``` --- saved dataloaders.
+
 ```basic_model``` --- built different versions of CNNs, tried to find optimal architecture to prevent overfting and underfiting.
+
 ```hyperparams.ipynb``` --- tried to find optimal optimizer, learning rate and dropout rate to encrease acuraccy and F1-score, minimize loss.
+
 ```pretreined.ipynb``` --- applied transfer learning with ResNet18, progressively unfroze layers, tuned learning rate and augmentations to improve generalization.
 
 
