@@ -16,7 +16,7 @@ Here is the list of libraries needed:
 * seaborn
 * zipfile
 
-## Download dataset
+### Download dataset
 Since the dataset is too large to be stored on GitHub, you can download it manually from Kaggle:
 [Page with dataset](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification/data)
 
